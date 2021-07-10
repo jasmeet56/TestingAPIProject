@@ -1,0 +1,14 @@
+com\testing\assignemnt\service\OrganizationService.class
+com\testing\assignemnt\modal\Licenses.class
+com\testing\assignemnt\modal\ReleaseDates.class
+com\testing\assignemnt\modal\Organizations.class
+com\testing\assignemnt\service\OrganizationServiceImpl.class
+com\testing\assignemnt\configuration\WebApplicationConfig.class
+com\testing\assignemnt\modal\APIResponse.class
+com\testing\assignemnt\modal\Organizations$OrganizationsBuilder.class
+com\testing\assignemnt\TestingApiProjectApplication.class
+com\testing\assignemnt\modal\APIResponseMapper.class
+com\testing\assignemnt\modal\Releases.class
+com\testing\assignemnt\controller\OrganizationController.class
+com\testing\assignemnt\modal\Permissions.class
+com\testing\assignemnt\constant\Constants.class
